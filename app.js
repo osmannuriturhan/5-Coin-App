@@ -17,8 +17,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
         let img = document.createElement("img");
         img.src = coin.iconUrl;
-        img.style.width = "20px"; // Ayarlanabilir boyut
-        img.style.height = "20px"; // Ayarlanabilir boyut
+        img.style.width = "20px"; 
+        img.style.height = "20px"; 
         img.alt = `${coin.name} icon`;
 
         imgCell.appendChild(img);
