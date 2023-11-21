@@ -1,4 +1,4 @@
-# CoinApp => https://osmannuriturhan.github.io/5-Coin-App/
+# CoinApp => https://osmannuriturhan.github.io/Coin-App/
 
 Bu proje, CoinRanking API'sini kullanarak çeşitli kripto paraların mevcut piyasa değerlerini ve bilgilerini gösteren basit bir web uygulamasıdır.
 
